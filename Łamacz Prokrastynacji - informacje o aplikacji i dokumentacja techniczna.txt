@@ -1,0 +1,38 @@
+Wstêp teoretyczny: 
+Prokrastynacja jest niczym innym jak odczuwanym negatywnym stanem emocjonalnym w odpowiedzi na pojawienie siê nieprzyjemnego doœwiadczenia.
+Za to nieprzyjemne odczucie odpowiedzlane s¹ oœrodki bólowe w naszym mózgu. W wyniku tego nasz mózg automatycznie poszukuje pozytywnych bodŸców by
+przekierowaæ na nie nasz¹ uwagê. Gdy staje siê to nawykiem zaczynamy mówiæ o prokrastynacji. 
+Z badañ wynika ciekawy wniosek, mianowicie gdy "przytrzymamy" nasz¹ uwagê i zaczniemy rozwi¹zywaæ problem który wywo³a³ u nas negatywne emocje,
+emocje te bardzo szybko znikaj¹. Okazuje siê ¿e samo myœlenie o czynnoœci która wydaje siê nam trudna b¹dŸ nieprzyjemna wywo³uje negatywne emocje, natomiast 
+przyst¹pienie do dzia³ania te emocje niweluje. Na podstawie tych odkryæ w³oski badacz Francesco Cirillo na pocz¹tku 1980 roku opracowa³ metodê Pomodoro. 
+Nazwa wziê³a siê od kuchennego timera w kszta³cie pomidora odliczaj¹cego czas w trakcie gotowania. Metoda Pomodoro polega na ustawieniu krótkiego odcinka czasu, 
+np. 25 min i poœwiêcenia tego czasu na rozwi¹zanie problemu który sprawia nam trudnoœæ. W trakcie trwania sesji Pomodoro nie mo¿emy robiæ ¿adnych przerw, 
+staramy skupiæ ca³¹ swoj¹ uwagê na rozwi¹zaniu problemu. Po up³ywie czasu robimy sobie krótk¹ przerwê i rozpoczynamy kolejn¹ sesjê. D³ugoœæ sesji zale¿y od nas, 
+zwyczajowo zaczyna siê od 25 min i nastêpnie czas ten jest wyd³u¿any. G³ównym za³o¿eniem metody jest "oswajanie" siê wykonywaniem nieprzyjemnych czynnoœci poprzez
+wykonywanie tych czynnoœci w krótkich odcinkach czasowych. Ka¿dy mo¿e skupiæ swoj¹ uwagê przez 10, 15 czy 25 min na wykonaniu jakiejœ czynnoœci.
+
+Timer "£amacz prokrastynacji" który napisa³em jest aplikacj¹ któr¹ mo¿na u¿yæ do odmierzania czasu zgodnie z metod¹ Pomodoro. Posiada on równie¿ funkcjonalnoœæ 
+generowania raportów do pliku excel by u³atwiæ monitorowanie czasu spêdzonego nad danym projektem.
+
+Dokumentacja techniczna:
+Aplikacja zosta³a napisana w Visual Studio 2015 Community. Jest to moja pierwsza funkcjonalna aplikacja któr¹ napisa³em.
+
+Opis funkcjonalnoœci:
+Pole tekstowe -> Nazwa projektu: w polu tekstowym wpisujemy nazwê aktywnoœci, projektu. Nazwa ta zostanie póŸniej umieszczona w raporcie excel. Plik excel jest
+zapisywany w folderze w którym zosta³a zapisana aplikacja.
+Pola tekstowe pod etykiet¹ "Przewidywany czas projektu" -> godz., min, sek.: pola tekstowe w które wpisujemy czas który chcemy odmierzyæ.
+Licznik pod etykiet¹ "Czas trwania projektu" -> licznik czasu odmierzaj¹cy czas pracy nad projektem "w górê". Odmierzony czas mo¿e byæ zapisany
+w pliku "RaportExcel".
+Przycisk -> RESETUJ: w wciœniêciu przycisku RESETUJ timer resetowany jest do wartoœci 0. Aby dalej odmierzaæ czas nale¿y ponownie wpisaæ "Przewidywany 
+czas projektu".
+Licznik pod etykiet¹ "Odliczany czas do zakoñczenia projektu" -> licznik odmierzaj¹cy czas "w dó³". Zakoñczenie odliczania skutkuje pojawieniem siê informacji 
+"Koniec pracy. Czas na przerwê".
+Przycisk -> START: przycisk rozpoczynaj¹cy odliczanie.
+Przycisk -> STOP: przycisk stopuj¹cy odliczanie. Po ponownym wciœniêciu przycisku start, czas bêdzie mierzony od pocz¹tku.
+Przycisk -> RaportExcel: przycisk zapisuj¹cy do pliku excel tekst wpisany do pola tekstowego "Nazwa projektu", czas z pól tekstowych "Przewidywany czas projektu" 
+oraz czas z "Czas trwania projektu".
+
+Funkcj¹ powy¿szej aplikacji jest wpisanie okreœlonego czasu jaki chcemy poœwiêciæ na wykonanie konkretnej czynnoœci, np. nauka programowania, odmierzenie 
+konkretnego czasu i wyœwietlenie komunikatu o zakoñczeniu odmierzania. Aplikacja ma pomóc w pe³nym skupieniu siê na danej czynnoœci i faktycznemu poœwiêceniu 
+na dan¹ czynnoœæ zak³adanego czasu.
+
