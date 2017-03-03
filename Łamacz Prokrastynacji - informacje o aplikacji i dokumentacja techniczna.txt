@@ -1,43 +1,59 @@
-Wstêp teoretyczny i funkcja aplikacji:
-Prokrastynacja jest niczym innym jak odczuwanym negatywnym stanem emocjonalnym w odpowiedzi na pojawienie siê nieprzyjemnego doœwiadczenia.
-Za to nieprzyjemne odczucie odpowiedzialne s¹ oœrodki bólowe w naszym mózgu. W wyniku tego nasz mózg automatycznie poszukuje pozytywnych bodŸców by
-przekierowaæ na nie nasz¹ uwagê. Gdy staje siê to nawykiem zaczynamy mówiæ o prokrastynacji. 
-Z badañ wynika ciekawy wniosek, mianowicie gdy "przytrzymamy" nasz¹ uwagê i zaczniemy rozwi¹zywaæ problem który wywo³a³ u nas negatywne emocje,
-emocje te bardzo szybko znikaj¹. Okazuje siê ¿e samo myœlenie o czynnoœci która wydaje siê nam trudna b¹dŸ nieprzyjemna wywo³uje negatywny stan, natomiast 
-przyst¹pienie do dzia³ania stan ten niweluje. Na podstawie tych odkryæ w³oski badacz Francesco Cirillo pod koniec lat osiemdziesi¹tych ubieg³ego wieku opracowa³ 
-metodê Pomodoro. Nazwa wziê³a siê od kuchennego timera w kszta³cie pomidora odliczaj¹cego czas w trakcie gotowania. Metoda Pomodoro polega na ustawieniu krótkiego 
-odcinka czasu, np. 25 min i poœwiêcenia tego czasu na rozwi¹zanie problemu który sprawia nam trudnoœæ. W trakcie trwania sesji Pomodoro nie mo¿emy robiæ ¿adnych 
-przerw, staramy skupiæ ca³¹ swoj¹ uwagê na rozwi¹zaniu problemu. Po up³ywie czasu robimy sobie krótk¹ przerwê i rozpoczynamy kolejn¹ sesjê. D³ugoœæ sesji zale¿y 
-od nas, zwyczajowo zaczyna siê od 25 min i nastêpnie czas ten jest wyd³u¿any. G³ównym za³o¿eniem metody jest "oswajanie" siê z wykonywaniem czynnoœci które 
-sprawiaj¹ nam trudnoœæ poprzez wykonywanie tych czynnoœci w krótkich odcinkach czasowych.
-Aplikacja któr¹ napisa³em jest narzêdziem które mo¿e w tym pomóc. Nasze umys³y dzia³aj¹ w nielinearny sposób, tzn. dzia³anie naszego mózgu oscyluje miêdzy 
-dwoma trybami pracy:
-1. Faz¹ skupienia (focused mode)    -> faza w której nasz umys³ funkcjonuje bardzo szczegó³owo i efektywnie analizuj¹c bardzo dok³adnie niewielk¹ czêœæ informacji.
-2. Faz¹ rozproszenia (diffuse mode) -> faza integracji wczeœniej zdobytej wiedzy i ³¹czenia jej z pozosta³ymi obszarami w mózgu przechowuj¹cymi inne informacje.
-Wynika z tego prosty wniosek, ¿e nie nale¿y spêdzaæ zbyt du¿ej iloœci czasu nad danym zagadnieniem jeœli nie przynosi to efektu. Bardzo wa¿ne aby robiæ sobie krótkie
-przerwy co jakiœ czas by prze³¹czyæ nasz umys³ w tryb rozproszenia. Krótko mówi¹c mózg zintegruje informacje i poda nam rozwi¹zanie.
-Aplikacja posiada równie¿ funkcjonalnoœæ generowania raportów do pliku excel by u³atwiæ monitorowanie czasu spêdzonego nad danym projektem.
+WstÄ™p teoretyczny i funkcja aplikacji:
+Prokrastynacja jest niczym innym jak odczuwanym negatywnym stanem emocjonalnym w odpowiedzi na 
+pojawienie siÄ™ nieprzyjemnego doÅ›wiadczenia.
+Za to nieprzyjemne odczucie odpowiedzialne sÄ… oÅ›rodki bÃ³lowe w naszym mÃ³zgu. W wyniku tego nasz 
+mÃ³zg automatycznie poszukuje pozytywnych bodÅºcÃ³w byprzekierowaÄ‡ na nie naszÄ… uwagÄ™. Gdy staje 
+siÄ™ to nawykiem zaczynamy mÃ³wiÄ‡ o prokrastynacji. 
+Z badaÅ„ wynika ciekawy wniosek, mianowicie gdy "przytrzymamy" naszÄ… uwagÄ™ i zaczniemy rozwiÄ…zywaÄ‡ 
+problem ktÃ³ry wywoÅ‚aÅ‚ u nas negatywne emocje, emocje te bardzo szybko znikajÄ…. Okazuje siÄ™ Å¼e 
+samo myÅ›lenie o czynnoÅ›ci ktÃ³ra wydaje siÄ™ nam trudna bÄ…dÅº nieprzyjemna wywoÅ‚uje negatywny stan, 
+natomiast przystÄ…pienie do dziaÅ‚ania stan ten niweluje. Na podstawie tych odkryÄ‡ wÅ‚oski badacz 
+Francesco Cirillo pod koniec lat osiemdziesiÄ…tych ubiegÅ‚ego wieku opracowaÅ‚ metodÄ™ Pomodoro. 
+Nazwa wziÄ™Å‚a siÄ™ od kuchennego timera w ksztaÅ‚cie pomidora odliczajÄ…cego czas w trakcie gotowania. 
+Metoda Pomodoro polega na ustawieniu krÃ³tkiego odcinka czasu, np. 25 min i poÅ›wiÄ™cenia tego czasu 
+na rozwiÄ…zanie problemu ktÃ³ry sprawia nam trudnoÅ›Ä‡. W trakcie trwania sesji Pomodoro nie moÅ¼emy 
+robiÄ‡ Å¼adnych przerw, staramy skupiÄ‡ caÅ‚Ä… swojÄ… uwagÄ™ na rozwiÄ…zaniu problemu. Po upÅ‚ywie czasu 
+robimy sobie krÃ³tkÄ… przerwÄ™ i rozpoczynamy kolejnÄ… sesjÄ™. DÅ‚ugoÅ›Ä‡ sesji zaleÅ¼y od nas, zwyczajowo 
+zaczyna siÄ™ od 25 min i nastÄ™pnie czas ten jest wydÅ‚uÅ¼any. GÅ‚Ã³wnym zaÅ‚oÅ¼eniem metody jest "oswajanie" 
+siÄ™ z wykonywaniem czynnoÅ›ci ktÃ³re sprawiajÄ… nam trudnoÅ›Ä‡ poprzez wykonywanie tych czynnoÅ›ci w 
+krÃ³tkich odcinkach czasowych.
+Aplikacja ktÃ³rÄ… napisaÅ‚em jest narzÄ™dziem ktÃ³re moÅ¼e w tym pomÃ³c. Nasze umysÅ‚y dziaÅ‚ajÄ… w nielinearny 
+sposÃ³b, tzn. dziaÅ‚anie naszego mÃ³zgu oscyluje miÄ™dzy dwoma trybami pracy:
+1. FazÄ… skupienia (focused mode)    -> faza w ktÃ³rej nasz umysÅ‚ funkcjonuje bardzo szczegÃ³Å‚owo i 
+efektywnie analizujÄ…c bardzo dokÅ‚adnie niewielkÄ… czÄ™Å›Ä‡ informacji.
+2. FazÄ… rozproszenia (diffuse mode) -> faza integracji wczeÅ›niej zdobytej wiedzy i Å‚Ä…czenia jej z 
+pozostaÅ‚ymi obszarami w mÃ³zgu przechowujÄ…cymi inne informacje.
+Wynika z tego prosty wniosek: nie naleÅ¼y spÄ™dzaÄ‡ zbyt duÅ¼ej iloÅ›ci czasu nad danym zagadnieniem jeÅ›li 
+nie przynosi to efektu. Bardzo waÅ¼ne aby robiÄ‡ sobie krÃ³tkieprzerwy co jakiÅ› czas by przeÅ‚Ä…czyÄ‡ nasz 
+umysÅ‚ w tryb rozproszenia. KrÃ³tko mÃ³wiÄ…c mÃ³zg zintegruje informacje i poda nam rozwiÄ…zanie.
+Aplikacja posiada rÃ³wnieÅ¼ funkcjonalnoÅ›Ä‡ generowania raportÃ³w do pliku excel by uÅ‚atwiÄ‡ monitorowanie 
+czasu spÄ™dzonego nad danym projektem.
 
-Inspiracj¹ do napisania aplikacji by³o ukoñczenie kursu MOOC (masowy otwarty kurs online) na portalu coursera.org: Learning how to learn: Powerful mental tools 
-to help you master tough subjects. Kurs zosta³ przygotowany przez University of California, San Diego.
+InspiracjÄ… do napisania aplikacji byÅ‚o ukoÅ„czenie kursu MOOC (masowy otwarty kurs online) na portalu 
+coursera.org: Learning how to learn: Powerful mental tools to help you master tough subjects. Kurs 
+zostaÅ‚ przygotowany przez University of California, San Diego.
 
 Dokumentacja techniczna:
-Aplikacja zosta³a napisana w Visual Studio 2015 Community.
+Aplikacja zostaÅ‚a napisana w Visual Studio 2015 Community w jÄ™zyku C#.
 
-Dokumentacja u¿ytkownika z opisem funkcjonalnoœci:
-Pole tekstowe -> Nazwa projektu: w polu tekstowym wpisujemy nazwê aktywnoœci, projektu. Nazwa ta zostanie póŸniej umieszczona w raporcie excel. Plik excel jest
-zapisywany w folderze w którym zosta³a zapisana aplikacja.
-Pola tekstowe pod etykiet¹ "Przewidywany czas projektu" -> godz., min, sek.: pola tekstowe w które wpisujemy czas który chcemy odmierzyæ.
-Licznik pod etykiet¹ "Czas trwania projektu" -> licznik czasu odmierzaj¹cy czas pracy nad projektem "w górê". Odmierzony czas mo¿e byæ zapisany 
-w pliku "RaportExcel".
-Przycisk -> RESETUJ: po wciœniêciu przycisku RESETUJ timer resetowany jest do wartoœci 0. Aby dalej odmierzaæ czas nale¿y ponownie wpisaæ "Przewidywany 
-czas projektu".
-Licznik pod etykiet¹ "Odliczany czas do zakoñczenia projektu" -> licznik odmierzaj¹cy czas "w dó³". Zakoñczenie odliczania skutkuje pojawieniem siê informacji 
-"Koniec pracy. Czas na przerwê".
-Przycisk -> START: przycisk rozpoczynaj¹cy odliczanie.
-Przycisk -> STOP: przycisk stopuj¹cy odliczanie. Po ponownym wciœniêciu przycisku START czas bêdzie mierzony od pocz¹tku. G³ówn¹ funkcjonalnoœci¹ aplikacji jest
-praca nad danym zagadnieniem, w okreœlonym okresie czasu, bez przerwy. Po wciœniêciu przycisku STOP i nastêpnie wciœniêciu przycisku START czas odmierzany jest
-od pocz¹tku, np.: gdy ustawimy "Czas trwania projektu" na 25 min. i po up³ywie 10 min. wcieœniemy przycisk STOP (w wyniku tego ¿e coœ nas rozproszy³o, podjeliœmy
-inne dzia³anie ni¿ praca nad projektem, np. sprawdzenie Fejsbooka) i nastêpnie wciœniemy przycisk START, czas bêdzie odmierzany ponownie od 25 min.
-Przycisk -> RaportExcel: przycisk zapisuj¹cy do pliku excel tekst wpisany do pola tekstowego "Nazwa projektu", czas z pól tekstowych "Przewidywany czas projektu" 
-oraz czas z "Czas trwania projektu".
+Dokumentacja uÅ¼ytkownika z opisem funkcjonalnoÅ›ci:
+Pole tekstowe -> Nazwa projektu: w polu tekstowym wpisujemy nazwÄ™ aktywnoÅ›ci, projektu. Nazwa ta 
+zostanie pÃ³Åºniej umieszczona w raporcie excel. Plik excel jest zapisywany w folderze w ktÃ³rym zostaÅ‚a 
+zapisana aplikacja.
+Pola tekstowe pod etykietÄ… "Przewidywany czas projektu" -> godz., min, sek.: pola tekstowe w ktÃ³re 
+wpisujemy czas ktÃ³ry chcemy odmierzyÄ‡.
+Licznik pod etykietÄ… "Czas trwania projektu" -> licznik czasu odmierzajÄ…cy czas pracy nad projektem 
+"w gÃ³rÄ™". Odmierzony czas moÅ¼e byÄ‡ zapisany w pliku "RaportExcel".
+Przycisk -> RESETUJ: po wciÅ›niÄ™ciu przycisku RESETUJ timer resetowany jest do wartoÅ›ci 0. Aby dalej 
+odmierzaÄ‡ czas naleÅ¼y ponownie wpisaÄ‡ "Przewidywany czas projektu".
+Licznik pod etykietÄ… "Odliczany czas do zakoÅ„czenia projektu" -> licznik odmierzajÄ…cy czas "w dÃ³Å‚". 
+ZakoÅ„czenie odliczania skutkuje pojawieniem siÄ™ informacji "Koniec pracy. Czas na przerwÄ™".
+Przycisk -> START: przycisk rozpoczynajÄ…cy odliczanie.
+Przycisk -> STOP: przycisk stopujÄ…cy odliczanie. Po ponownym wciÅ›niÄ™ciu przycisku START czas bÄ™dzie 
+mierzony od poczÄ…tku. GÅ‚Ã³wnÄ… funkcjonalnoÅ›ciÄ… aplikacji jest praca nad danym zagadnieniem, w okreÅ›lonym 
+okresie czasu, bez przerwy. Po wciÅ›niÄ™ciu przycisku STOP i nastÄ™pnie wciÅ›niÄ™ciu przycisku START czas 
+odmierzany jest od poczÄ…tku, np.: gdy ustawimy "Czas trwania projektu" na 25 min. i po upÅ‚ywie 10 min. 
+wcieÅ›niemy przycisk STOP (w wyniku tego Å¼e coÅ› nas rozproszyÅ‚o, podjeliÅ›my inne dziaÅ‚anie niÅ¼ praca nad 
+projektem) i nastÄ™pnie wciÅ›niemy przycisk START, czas bÄ™dzie odmierzany ponownie od 25 min.
+Przycisk -> RaportExcel: przycisk zapisujÄ…cy do pliku excel tekst wpisany do pola tekstowego "Nazwa 
+projektu", czas z pÃ³l tekstowych "Przewidywany czas projektu" oraz czas z "Czas trwania projektu".
