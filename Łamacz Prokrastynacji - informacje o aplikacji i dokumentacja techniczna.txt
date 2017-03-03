@@ -37,23 +37,23 @@ Dokumentacja techniczna:
 Aplikacja została napisana w Visual Studio 2015 Community w języku C#.
 
 Dokumentacja użytkownika z opisem funkcjonalności:
-Pole tekstowe -> Nazwa projektu: w polu tekstowym wpisujemy nazwę aktywności, projektu. Nazwa ta 
-zostanie później umieszczona w raporcie excel. Plik excel jest zapisywany w folderze w którym została 
-zapisana aplikacja.
-Pola tekstowe pod etykietą "Przewidywany czas projektu" -> godz., min, sek.: pola tekstowe w które 
-wpisujemy czas który chcemy odmierzyć.
-Licznik pod etykietą "Czas trwania projektu" -> licznik czasu odmierzający czas pracy nad projektem 
-"w górę". Odmierzony czas może być zapisany w pliku "RaportExcel".
-Przycisk -> RESETUJ: po wciśnięciu przycisku RESETUJ timer resetowany jest do wartości 0. Aby dalej 
-odmierzać czas należy ponownie wpisać "Przewidywany czas projektu".
-Licznik pod etykietą "Odliczany czas do zakończenia projektu" -> licznik odmierzający czas "w dół". 
-Zakończenie odliczania skutkuje pojawieniem się informacji "Koniec pracy. Czas na przerwę".
-Przycisk -> START: przycisk rozpoczynający odliczanie.
-Przycisk -> STOP: przycisk stopujący odliczanie. Po ponownym wciśnięciu przycisku START czas będzie 
-mierzony od początku. Główną funkcjonalnością aplikacji jest praca nad danym zagadnieniem, w określonym 
-okresie czasu, bez przerwy. Po wciśnięciu przycisku STOP i następnie wciśnięciu przycisku START czas 
-odmierzany jest od początku, np.: gdy ustawimy "Czas trwania projektu" na 25 min. i po upływie 10 min. 
-wcieśniemy przycisk STOP (w wyniku tego że coś nas rozproszyło, podjeliśmy inne działanie niż praca nad 
-projektem) i następnie wciśniemy przycisk START, czas będzie odmierzany ponownie od 25 min.
-Przycisk -> RaportExcel: przycisk zapisujący do pliku excel tekst wpisany do pola tekstowego "Nazwa 
-projektu", czas z pól tekstowych "Przewidywany czas projektu" oraz czas z "Czas trwania projektu".
+* Pole tekstowe -> Nazwa projektu: w polu tekstowym wpisujemy nazwę aktywności, projektu. Nazwa ta 
+  zostanie później umieszczona w raporcie excel. Plik excel jest zapisywany w folderze w którym została 
+  zapisana aplikacja.
+* Pola tekstowe pod etykietą "Przewidywany czas projektu" -> godz., min, sek.: pola tekstowe w które 
+  wpisujemy czas który chcemy odmierzyć.
+* Licznik pod etykietą "Czas trwania projektu" -> licznik czasu odmierzający czas pracy nad projektem 
+  "w górę". Odmierzony czas może być zapisany w pliku "RaportExcel".
+* Przycisk -> RESETUJ: po wciśnięciu przycisku RESETUJ timer resetowany jest do wartości 0. Aby dalej 
+  odmierzać czas należy ponownie wpisać "Przewidywany czas projektu".
+* Licznik pod etykietą "Odliczany czas do zakończenia projektu" -> licznik odmierzający czas "w dół". 
+  Zakończenie odliczania skutkuje pojawieniem się informacji "Koniec pracy. Czas na przerwę".
+* Przycisk -> START: przycisk rozpoczynający odliczanie.
+* Przycisk -> STOP: przycisk stopujący odliczanie. Po ponownym wciśnięciu przycisku START czas będzie 
+  mierzony od początku. Główną funkcjonalnością aplikacji jest praca nad danym zagadnieniem, w określonym 
+  okresie czasu, bez przerwy. Po wciśnięciu przycisku STOP i następnie wciśnięciu przycisku START czas 
+  odmierzany jest od początku, np.: gdy ustawimy "Czas trwania projektu" na 25 min. i po upływie 10 min. 
+  wcieśniemy przycisk STOP (w wyniku tego że coś nas rozproszyło, podjeliśmy inne działanie niż praca nad 
+  projektem) i następnie wciśniemy przycisk START, czas będzie odmierzany ponownie od 25 min.
+* Przycisk -> RaportExcel: przycisk zapisujący do pliku excel tekst wpisany do pola tekstowego "Nazwa 
+  projektu", czas z pól tekstowych "Przewidywany czas projektu" oraz czas z "Czas trwania projektu".
